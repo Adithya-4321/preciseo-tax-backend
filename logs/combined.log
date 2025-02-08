@@ -1,0 +1,7 @@
+{"level":"info","message":"Server running on port 3000 in development mode","service":"appointment-service","timestamp":"2025-02-01 15:04:58"}
+{"level":"info","message":"Email service is ready","service":"appointment-service","timestamp":"2025-02-01 15:04:59"}
+{"0":"i","1":"n","10":"s","11":"e","12":"o","13":"t","14":"a","15":"x","16":".","17":"c","18":"o","19":"m","2":"f","3":"o","4":"@","5":"p","6":"r","7":"e","8":"c","9":"i","level":"info","message":"Using email account:","service":"appointment-service","timestamp":"2025-02-01 15:04:59"}
+{"level":"info","message":"Server running on port 3000 in development mode","service":"appointment-service","timestamp":"2025-02-02 07:05:52"}
+{"level":"info","message":"Email service is ready","service":"appointment-service","timestamp":"2025-02-02 07:05:54"}
+{"0":"i","1":"n","10":"s","11":"e","12":"o","13":"t","14":"a","15":"x","16":".","17":"c","18":"o","19":"m","2":"f","3":"o","4":"@","5":"p","6":"r","7":"e","8":"c","9":"i","level":"info","message":"Using email account:","service":"appointment-service","timestamp":"2025-02-02 07:05:54"}
+{"level":"info","message":"Server running on port 3000 in development mode","service":"appointment-service","timestamp":"2025-02-08 22:34:44"}
